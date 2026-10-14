@@ -4,7 +4,7 @@ Scripture on your lock screen. A fresh NKJV verse, a matching quote from a man o
 
 Built by James Tjiunardi, first for his own phone, and shared freely with friends.
 
-**Latest version:** 3.16 · **Platform:** Android 8.0 and above · **Size:** about 12 MB · **Price:** free, no ads, no account
+**Latest version:** 3.17 · **Platform:** Android 8.0 and above · **Size:** about 12 MB · **Price:** free, no ads, no account
 
 ## Download
 
@@ -41,7 +41,7 @@ Updating later works the same way: download the newer APK and install it over th
 SHA-256 of the current APK file:
 
 ```
-fde013e7dee12eb514a9070456a659d3257bc31155cdbbcca874c5af7caec2fe  verse-lock.apk
+b6347ac8bd3ffc788a613c9fa7c6c218ea5e3725baa5ff57aa868759cf73ee11  verse-lock.apk
 ```
 
 Signing certificate SHA-256 (the same for every official release):
@@ -59,6 +59,9 @@ If a copy of Verse Lock ever shows a different certificate fingerprint, it did n
 * The app works offline. Nothing about you leaves your device
 
 ## What is new
+
+**v3.17 (14 Oct 2026)**
+* The verse notification now carries the same sword and shield app icon as the app itself, instead of a plain bookmark silhouette
 
 **v3.16 (14 Oct 2026)**
 * The verse notification rebuilt on the proven plain shape (not ongoing), on a fresh channel, after the ongoing style kept going missing on a Galaxy Fold. Send test now reports a result code in a dialog
