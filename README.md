@@ -4,7 +4,7 @@ Scripture on your lock screen. A fresh NKJV verse, a matching quote from a man o
 
 Built by James Tjiunardi, first for his own phone, and shared freely with friends.
 
-**Latest version:** 3.18 · **Platform:** Android 8.0 and above · **Size:** about 12 MB · **Price:** free, no ads, no account
+**Latest version:** 3.19 · **Platform:** Android 8.0 and above · **Size:** about 12 MB · **Price:** free, no ads, no account
 
 ## Download
 
@@ -41,7 +41,7 @@ Updating later works the same way: download the newer APK and install it over th
 SHA-256 of the current APK file:
 
 ```
-73f818df74038eff8e7c1d545d1a4ee07804191665b76ce9058f8dd9c46aa00b  verse-lock.apk
+8557c336fa8353d8d85ac2ce547154e06de390b7b07cce5bdb9984860f69fc5f  verse-lock.apk
 ```
 
 Signing certificate SHA-256 (the same for every official release):
@@ -59,6 +59,9 @@ If a copy of Verse Lock ever shows a different certificate fingerprint, it did n
 * The app works offline. Nothing about you leaves your device
 
 ## What is new
+
+**v3.19 (14 Oct 2026)**
+* New: Bahasa Indonesia. A language switch on the Personal tab (English / Bahasa Indonesia) puts all 345 quotes and all 1,128 affirmations into Indonesian at once, across the app, both widgets, the notification and the lock screen wallpaper. Verses stay NKJV, honestly labelled, until their Terjemahan Baru texts are added. Anything not yet translated falls back to English seamlessly
 
 **v3.18 (14 Oct 2026)**
 * Send test messages simplified (no third party name, just the result and a code). Notification icon and reliable posting from v3.16 and v3.17 unchanged
