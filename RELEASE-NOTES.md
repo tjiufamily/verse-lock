@@ -1,18 +1,20 @@
-Verse Lock v3.20
+Verse Lock v4.2
 
-Verse Lock now speaks four languages.
+A much bigger library, a prayer with every mood, and a tidier app.
 
 What changed:
-* A four way language switch on the Personal tab: English, Bahasa Indonesia, Simplified Chinese (简体中文), and Taiwan Traditional Chinese (繁體中文). One tap changes everything at once: verses, quotes, affirmations, and the whole app interface, across the app, both widgets, the morning notification, and the lock screen wallpaper.
-* Indonesian verses are now the real Terjemahan Baru, all 780, with Indonesian references and the TB label. Chinese verses are the beloved Chinese Union Version （和合本， 1919), all 780, with Chinese references. English stays NKJV.
-* All 345 quotes from the ten men of God and all 1,128 affirmations (780 built in plus 348 mood affirmations) are translated in every language, kept tight and idiomatic for a lock screen.
-* The whole app interface is translated, not just the content: headers, tips, buttons, messages, the saved verses screen, the notification's Previous and Next buttons, and the widget hint.
-* The daily notification is rebuilt for reading: the verse reference and the quote's author now sit in parentheses, with breathing room between verse, quote, and affirmation. Tapping the notification opens the app right at that verse.
-* Widgets now size their text to the space you give them: small, medium, or large, and they re-render the moment you resize.
-* The Background style setting is renamed Lock screen background, so it is clear it chooses the picture behind your verse.
+* Seven new categories: Words & Speech, Marriage & Parenting, Spiritual Warfare, Finances & Provision, Work & Calling, Humility, and Identity in Christ, plus a Verses for the Heart collection.
+* Four new moods: Doubting, Hard to Forgive, Tempted, and Waiting, 33 moods in all. The Anxious, Angry, Grieving and Ashamed sets run deeper too.
+* Take Heart: tap Minister to me and, under the affirmation, there is now a short three sentence prayer written for that verse and that feeling, in all four languages.
+* Twelve new voices join the quotes, 22 in all: Tim Keller, Paul David Tripp, Gary Chapman, Tedd Tripp, James Dobson, Ken Sande, Martyn Lloyd-Jones, C.S. Lewis, Max Lucado, Brennan Manning, Jerry Bridges, and Andrew Murray.
+* Previous and Next buttons on the Home page, so you can step through verses at your own pace. Tapping the morning notification now lands on the Home page at that verse.
+* Set any verse as your home screen wallpaper in one tap (your lock screen keeps rotating as always), and Save image now fits the whole verse, however long it is.
+* In Saved verses, tap a verse for its actions: set as home wallpaper, save image, or remove from favorites.
+* Clearer tabs: Home, Library, Personal, Settings. The How it works card now lives on the Library page, and the verse actions (Save favorite, Share image, Saved verses, wallpaper, save image) sit together under Previous and Next.
+* A gentle update prompt: the app checks for a newer version at most once a day and offers it once, with a Later button that waits a week. The Settings page also shows your version with a Get the latest version button. This check is the app's only network use; everything else still works fully offline, with no account, no ads, and no tracking.
 * Same signing key as always, so this installs over your current version with your favorites and settings kept.
 
 SHA-256 of verse-lock.apk:
-8afc66d6d0f7afc728646dd062286f1c80681f121d4d23a1be56124811287bf4
+c1c6398a8ad4c74ba4a86156d3ba3202912426ac2605e2fa5438fef7083d25ea
 
 Install: download verse-lock.apk, tap it, allow your browser to install apps if asked, then Install. Android 8.0 and above.

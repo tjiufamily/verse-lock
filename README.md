@@ -4,7 +4,7 @@ Scripture on your lock screen. A fresh NKJV verse, a matching quote from a man o
 
 Built by James Tjiunardi, first for his own phone, and shared freely with friends.
 
-**Latest version:** 3.20 · **Platform:** Android 8.0 and above · **Size:** about 12 MB · **Price:** free, no ads, no account
+**Latest version:** 4.2 · **Platform:** Android 8.0 and above · **Size:** about 13 MB · **Price:** free, no ads, no account
 
 ## Download
 
@@ -56,9 +56,13 @@ If a copy of Verse Lock ever shows a different certificate fingerprint, it did n
 
 * No account, no sign up, no ads, no analytics, no tracking
 * Your name, favorites, and your own verses and affirmations stay on your phone
-* The app works offline. Nothing about you leaves your device
+* The app works offline. Nothing about you leaves your device; the only network use is an anonymous check for a newer version, at most once a day
 
 ## What is new
+
+**v4.2 (16 Oct 2026)**
+* Seven new categories (Words & Speech, Marriage & Parenting, Spiritual Warfare, Finances & Provision, Work & Calling, Humility, Identity in Christ) plus Verses for the Heart; four new moods (Doubting, Hard to Forgive, Tempted, Waiting), 33 in all, with deeper Anxious, Angry, Grieving and Ashamed sets
+* Take Heart breath prayers under Minister to me, twelve new quote voices (22 in all), Previous and Next on the Home page, set as home wallpaper, a tidier Home page with clearer tabs (Home, Library, Personal, Settings), and a gentle once a day update check with a weekly snooze
 
 **v3.20 (14 Oct 2026)**
 * Four languages now: English, Bahasa Indonesia, Simplified Chinese （简体中文） and Taiwan Traditional Chinese （繁體中文）, switched in one tap on the Personal tab, with the entire app interface translated, not just the content
