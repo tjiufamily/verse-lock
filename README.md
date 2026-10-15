@@ -4,7 +4,7 @@ Scripture on your lock screen. A fresh NKJV verse, a matching quote from a man o
 
 Built by James Tjiunardi, first for his own phone, and shared freely with friends.
 
-**Latest version:** 4.2 · **Platform:** Android 8.0 and above · **Size:** about 13 MB · **Price:** free, no ads, no account
+**Latest version:** 4.4 · **Platform:** Android 8.0 and above · **Size:** about 14 MB · **Price:** free, no ads, no account
 
 ## Download
 
@@ -18,10 +18,10 @@ On an iPhone instead? Use the web version and setup guide: https://verse-lock-tj
 
 ## What it does
 
-* 780 NKJV verses across 13 categories, including Peace, Strength, Faith, Hope, and Healing and Health
-* A quote under every verse, matched to its theme, from ten men of God: Billy Graham, Reinhard Bonnke, Smith Wigglesworth, Yonggi Cho, Derek Prince, Charles Spurgeon, A. W. Tozer, Hudson Taylor, George Muller, William Carey
-* An affirmation for every verse, and the option to write your own words instead
-* 29 moods: tell it how you feel and it ministers to that exact feeling
+* NKJV verses across 21 categories, including Peace, Strength, Faith, Hope, and Healing and Health
+* A quote under every verse, matched to its theme, from 22 voices of faith: Billy Graham, Reinhard Bonnke, Smith Wigglesworth, Yonggi Cho, Derek Prince, Charles Spurgeon, A. W. Tozer, Hudson Taylor, George Muller, William Carey, Tim Keller, Paul David Tripp, Gary Chapman, Tedd Tripp, James Dobson, Ken Sande, Martyn Lloyd-Jones, C.S. Lewis, Max Lucado, Brennan Manning, Jerry Bridges and Andrew Murray
+* An affirmation for every verse, a Take Heart prayer written from the verse under it, and the option to write your own words instead
+* 33 moods: tell it how you feel and it ministers to that exact feeling
 * My own verse: pin a verse you type yourself on your lock screen
 * Rotation every 1, 3, 6, 12, or 24 hours, a verse of the day notification with the full verse text, and home and lock screen widgets with Previous and Next controls
 * 31 nature photo backgrounds, one for each day of the month
@@ -41,7 +41,7 @@ Updating later works the same way: download the newer APK and install it over th
 SHA-256 of the current APK file:
 
 ```
-8afc66d6d0f7afc728646dd062286f1c80681f121d4d23a1be56124811287bf4  verse-lock.apk
+e1cc4080cc9f44f1e5ff72100852a6773c74e64a0eda69e6e94e0c397dfb3db3  verse-lock.apk
 ```
 
 Signing certificate SHA-256 (the same for every official release):
@@ -59,6 +59,10 @@ If a copy of Verse Lock ever shows a different certificate fingerprint, it did n
 * The app works offline. Nothing about you leaves your device; the only network use is an anonymous check for a newer version, at most once a day
 
 ## What is new
+
+**v4.4 (16 Oct 2026)**
+* A Take Heart prayer with every verse, under the affirmation on the Home page, in all four languages; the iPhone web app shows the same prayer tile automatically
+* Quality pass over the newest verses: Indonesian references completed, an Indonesian typo corrected, quote marks tidied, affirmation fixes in all four languages
 
 **v4.2 (16 Oct 2026)**
 * Seven new categories (Words & Speech, Marriage & Parenting, Spiritual Warfare, Finances & Provision, Work & Calling, Humility, Identity in Christ) plus Verses for the Heart; four new moods (Doubting, Hard to Forgive, Tempted, Waiting), 33 in all, with deeper Anxious, Angry, Grieving and Ashamed sets
