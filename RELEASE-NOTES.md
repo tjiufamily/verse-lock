@@ -1,15 +1,14 @@
-Verse Lock v4.6
+Verse Lock v4.7
 
-A taller widget, and Home first.
+Two changes from your feedback.
 
 What changed:
-* The full home screen widget is taller by default, and its text sizing was reworked so long verses and affirmations show in full, with no clipped words, even on phones with a larger font size setting. If your existing widget still looks tight, drag it a row taller once and the new sizing will use the room.
-* The app now opens on the Home tab, where your verse is.
-* The iPhone web app matches the Android app: its bottom tabs now read Home, Library, Personal, Settings in the same order, it opens on Home, and the category picker sits in its own card on the Library page. iPhone users receive this automatically, nothing to install.
-* Everything from v4.5 carries over: the strengthened affirmations in all four languages and a Take Heart prayer with every verse.
+* A new switch, Verse on lock screen, sits in the Verse rotation card on the Home page. Turn it off and Verse Lock stops changing your lock screen completely; the verse still rotates in the app and on the widgets. Turn it back on and the current verse goes straight back onto your lock screen. Whatever image is on your lock screen when you turn it off stays there until you change it in your phone settings.
+* Previous and Next are gone as word buttons. There are now arrows on the left and right of the verse itself, in the app and on the iPhone web page, so you step through verses the way you flip pages.
+* Everything from v4.6 carries over: the taller widget with no clipped words, Home as the opening tab, the strengthened affirmations and a Take Heart prayer for every verse.
 * Same signing key as always, so this installs over your current version with your favorites and settings kept.
 
 SHA-256 of verse-lock.apk:
-d2c58fac5979017a198ac17d2aee6a01476d63b2a73c9f5aa1a6e6e23f161f1e
+4ec50bc73432ce8468258cfc7b310889996a0b337e440cbc376af3ea7d9524ba
 
 Install: download verse-lock.apk, tap it, allow your browser to install apps if asked, then Install. Android 8.0 and above.
