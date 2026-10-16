@@ -1,18 +1,14 @@
-Verse Lock v4.12
+Verse Lock v4.13
 
-A declutter and polish release: the verse card and the widgets do more with symbols, the widgets get colour themes, and Home opens shorter.
+Two refinements to the verse card, from device testing.
 
 What changed:
-* The buttons under the verse are now symbols at the top of the verse card: a heart for Save favorite (filled gold when the verse is saved), the standard share symbol, and a download arrow for Save image. Saved verses and Set as home wallpaper share one row below.
-* The same three symbols sit at the bottom of both home screen widgets, and they work from the widget: tap the heart to favorite the verse on show, the share symbol to share its image, the download arrow to save the image to your Pictures.
-* Widget colour themes, in Personal: Default (the Verse Lock navy), System (follows your phone's light or dark mode), Light, and Dark.
-* Swipe the verse card left or right to flip verses, in the app and on the iPhone web page.
-* Press and hold the share symbol to copy the verse as text, ready to paste into a message.
-* My own verse and My affirmation are now tap to open sections, so Home opens on the verse itself. My own verse starts open while it is switched on.
-* Everything from v4.7 carries over: the Verse on lock screen switch, the verse arrows, the taller widget with no clipped words, and a Take Heart prayer for every verse.
+* The verse arrows are now small round buttons floating over the left and right edges of the verse, centered on it. The full height side columns are gone, so in portrait the verse gets the whole card width back and nothing stretches. The iPhone web page arrows match.
+* Swiping the verse card to flip verses now works the way a thumb actually swipes, slightly diagonal flicks included. The card claims sideways drags for itself instead of letting the page scroll take them.
+* Everything from v4.12 carries over: the heart, share and download symbols at the top of the verse card and working at the bottom of both widgets, widget colour themes (Default, System, Light, Dark), press and hold share to copy the verse as text, collapsible My own verse and My affirmation cards, and the Verse on lock screen switch.
 * Same signing key as always, so this installs over your current version with your favorites and settings kept.
 
 SHA-256 of verse-lock.apk:
-6b58c1464c46b851791d363ccf6bc569242e63fc1cbfba4cfbcaf46b9ba5a1d4
+2cfb025e0fbe580df6ad9afe31e537b95e700d4b8f8091af548bb0b4681e42a7
 
 Install: download verse-lock.apk, tap it, allow your browser to install apps if asked, then Install. Android 8.0 and above.
