@@ -1,14 +1,15 @@
-Verse Lock v4.5
+Verse Lock v4.6
 
-The affirmations, strengthened.
+A taller widget, and Home first.
 
 What changed:
-* 417 affirmations have been rewritten in all four languages, English, Bahasa Indonesia, Simplified Chinese and Traditional Chinese. They now speak God's promises and His verdict over you directly, at full strength: what He has done, what He says about you, and what He will do, declared to you today, with no watering down and no coaching tone.
-* Everything from v4.4 carries over: a Take Heart prayer with every verse under the affirmation, the full library in four languages, and the same gentle update check.
-* The iPhone web app receives the new affirmations automatically, no new install needed. The widgets on both phones keep showing verse, quote and affirmation, as before.
+* The full home screen widget is taller by default, and its text sizing was reworked so long verses and affirmations show in full, with no clipped words, even on phones with a larger font size setting. If your existing widget still looks tight, drag it a row taller once and the new sizing will use the room.
+* The app now opens on the Home tab, where your verse is.
+* The iPhone web app matches the Android app: its bottom tabs now read Home, Library, Personal, Settings in the same order, it opens on Home, and the category picker sits in its own card on the Library page. iPhone users receive this automatically, nothing to install.
+* Everything from v4.5 carries over: the strengthened affirmations in all four languages and a Take Heart prayer with every verse.
 * Same signing key as always, so this installs over your current version with your favorites and settings kept.
 
 SHA-256 of verse-lock.apk:
-0994f22cd3e7ad10445e7419c866110f41e80337d2cfbada8e498f0947c01f88
+d2c58fac5979017a198ac17d2aee6a01476d63b2a73c9f5aa1a6e6e23f161f1e
 
 Install: download verse-lock.apk, tap it, allow your browser to install apps if asked, then Install. Android 8.0 and above.

@@ -4,7 +4,7 @@ Scripture on your lock screen. A fresh NKJV verse, a matching quote from a man o
 
 Built by James Tjiunardi, first for his own phone, and shared freely with friends.
 
-**Latest version:** 4.5 · **Platform:** Android 8.0 and above · **Size:** about 14 MB · **Price:** free, no ads, no account
+**Latest version:** 4.6 · **Platform:** Android 8.0 and above · **Size:** about 14 MB · **Price:** free, no ads, no account
 
 ## Download
 
@@ -41,7 +41,7 @@ Updating later works the same way: download the newer APK and install it over th
 SHA-256 of the current APK file:
 
 ```
-0994f22cd3e7ad10445e7419c866110f41e80337d2cfbada8e498f0947c01f88  verse-lock.apk
+d2c58fac5979017a198ac17d2aee6a01476d63b2a73c9f5aa1a6e6e23f161f1e  verse-lock.apk
 ```
 
 Signing certificate SHA-256 (the same for every official release):
@@ -59,6 +59,10 @@ If a copy of Verse Lock ever shows a different certificate fingerprint, it did n
 * The app works offline. Nothing about you leaves your device; the only network use is an anonymous check for a newer version, at most once a day
 
 ## What is new
+
+**v4.6 (16 Oct 2026)**
+* Taller full widget with reworked text sizing, so long verses and affirmations show in full with no clipped words
+* The app opens on the Home tab; the iPhone web app now matches Android's tab order (Home, Library, Personal, Settings), opens on Home, and keeps the category picker in its own Library card
 
 **v4.5 (16 Oct 2026)**
 * 417 affirmations rewritten in all four languages: God's promises and His verdict declared directly to the reader at full strength, no watering down
