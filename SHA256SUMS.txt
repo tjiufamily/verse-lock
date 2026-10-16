@@ -1,1 +1,1 @@
-4ec50bc73432ce8468258cfc7b310889996a0b337e440cbc376af3ea7d9524ba  verse-lock.apk
+6b58c1464c46b851791d363ccf6bc569242e63fc1cbfba4cfbcaf46b9ba5a1d4  verse-lock.apk
