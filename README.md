@@ -4,7 +4,7 @@ Scripture on your lock screen. A fresh NKJV verse, a matching quote from a man o
 
 Built by James Tjiunardi, first for his own phone, and shared freely with friends.
 
-**Latest version:** 4.13 · **Platform:** Android 8.0 and above · **Size:** about 14 MB · **Price:** free, no ads, no account
+**Latest version:** 4.14 · **Platform:** Android 8.0 and above · **Size:** about 14 MB · **Price:** free, no ads, no account
 
 ## Download
 
@@ -41,7 +41,7 @@ Updating later works the same way: download the newer APK and install it over th
 SHA-256 of the current APK file:
 
 ```
-2cfb025e0fbe580df6ad9afe31e537b95e700d4b8f8091af548bb0b4681e42a7  verse-lock.apk
+bcce820754c01b0c723069a569b5cdd1a5ed9f938680bcee417858fe8fef7b85  verse-lock.apk
 ```
 
 Signing certificate SHA-256 (the same for every official release):
@@ -59,6 +59,9 @@ If a copy of Verse Lock ever shows a different certificate fingerprint, it did n
 * The app works offline. Nothing about you leaves your device; the only network use is an anonymous check for a newer version, at most once a day
 
 ## What is new
+
+**v4.14 (16 Oct 2026)**
+* The verse arrows are now bare gold chevrons with no background, so nothing covers the words
 
 **v4.13 (16 Oct 2026)**
 * The verse arrows are now small round buttons floating over the edges of the verse; the verse gets the full card width in portrait
