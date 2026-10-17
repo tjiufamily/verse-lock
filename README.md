@@ -4,7 +4,7 @@ Scripture on your lock screen. A fresh NKJV verse, a matching quote from a man o
 
 Built by James Tjiunardi, first for his own phone, and shared freely with friends.
 
-**Latest version:** 4.14 · **Platform:** Android 8.0 and above · **Size:** about 14 MB · **Price:** free, no ads, no account
+**Latest version:** 4.21 · **Platform:** Android 8.0 and above · **Size:** about 15 MB · **Price:** free, no ads, no account
 
 ## Download
 
@@ -41,7 +41,7 @@ Updating later works the same way: download the newer APK and install it over th
 SHA-256 of the current APK file:
 
 ```
-bcce820754c01b0c723069a569b5cdd1a5ed9f938680bcee417858fe8fef7b85  verse-lock.apk
+67156b61ee99a61dc51f06504a43eadebf8ce5537939e6da8367cc563ee53ce6  verse-lock.apk
 ```
 
 Signing certificate SHA-256 (the same for every official release):
@@ -59,6 +59,13 @@ If a copy of Verse Lock ever shows a different certificate fingerprint, it did n
 * The app works offline. Nothing about you leaves your device; the only network use is an anonymous check for a newer version, at most once a day
 
 ## What is new
+
+**v4.21 (17 Oct 2026)**
+* Short prayers are the new standard, with Full one tap away under Prayer length in Personal.
+* Prayer text larger, brighter, and paragraphed by its movements.
+* New defaults for fresh installs: verse notification on, nature backgrounds, widget colour follows the phone (System). Existing choices are never overridden.
+* Share Verse Lock in Settings, with both download links in a ready message.
+* Widget colour picker is now a clear 2 by 2 grid.
 
 **v4.14 (16 Oct 2026)**
 * The verse arrows are now bare gold chevrons with no background, so nothing covers the words
